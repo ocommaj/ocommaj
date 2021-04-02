@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/ocommaj/ocommaj/blob/main/assets/ocommaj_preview_detail.jpg?raw=true "Header")](https://ocommaj.com)
 
 <!--
 **ocommaj/ocommaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
