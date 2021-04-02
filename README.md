@@ -1,4 +1,6 @@
-Striving to build cool stuff well. Curious to know more about every layer of the network stack and the movement of bits therein. Status: pragmatic. Target: more pragmatic. Language fanatic.
+Striving to build cool stuff well. 
+Curious to know more about every layer of the network stack and the movement of bits therein. 
+Status: pragmatic. Target: more pragmatic. Language fanatic.
 
 ## 🤖 Familiar Tech
 [![](https://img.shields.io/badge/JavaScript-Languages-informational?style=for-the-badge&logo=javascript&logoColor=393939&labelColor=f7df1e&color=6f6f6f)](https://262.ecma-international.org/11.0/)
