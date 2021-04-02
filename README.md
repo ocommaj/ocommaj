@@ -1,4 +1,4 @@
-Striving to build cool stuff well. 
+Striving to build useful stuff well. 
 
 Curious to know more about every layer of the network stack and the movement of bits therein. 
 
