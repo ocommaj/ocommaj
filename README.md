@@ -1,4 +1,5 @@
-[![Header](https://github.com/ocommaj/ocommaj/blob/main/assets/ocommaj_preview_detail.jpg?raw=true "Header")](https://ocommaj.com)
+## Favorite Tech
+[![](https://img.shields.io/badge/Blender-Tools-informational?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A&color=6f6f6f)](https://www.blender.org)
 
 <!--
 **ocommaj/ocommaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
