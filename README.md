@@ -4,7 +4,7 @@ Curious to learn more about every layer of the network stack and the movement of
 
 Status: pragmatic. Target: more pragmatic. Language fanatic.
 
-## 🤖 Familiar Tech
+## 🤖 Familiars
 [![](https://img.shields.io/badge/JavaScript-Languages-informational?style=for-the-badge&logo=javascript&logoColor=393939&labelColor=f7df1e&color=6f6f6f)](https://262.ecma-international.org/11.0/)
 [![](https://img.shields.io/badge/Python-Languages-informational?style=for-the-badge&logo=python&logoColor=f4f4f4&labelColor=3776ab&color=6f6f6f)](https://www.python.org)
 [![](https://img.shields.io/badge/Sass-Languages-informational?style=for-the-badge&logo=sass&logoColor=f4f4f4&labelColor=cc6699&color=6f6f6f)](https://www.sass-lang.org)
