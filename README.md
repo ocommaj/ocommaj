@@ -1,4 +1,4 @@
-## Favorite Tech
+## 🤖 Favorite Tech
 [![](https://img.shields.io/badge/Blender-Tools-informational?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A&color=6f6f6f)](https://www.blender.org)
 
 <!--
