@@ -1,7 +1,5 @@
 Striving to build useful stuff well & delightful things cleanly. 
 
-Curious to learn more about every layer of the network stack and the movement of bits therein. 
-
 Status: pragmatic. Target: more pragmatic. Language fanatic.
 
 ## 🤖 Familiars
