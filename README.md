@@ -2,6 +2,8 @@ Striving to build useful stuff well & delightful things cleanly.
 
 Status: pragmatic. Target: more pragmatic. Language fanatic.
 
+Blog posts at [medium.](https://medium.ocommaj.com)
+
 ## 🤖 Familiars
 [![](https://img.shields.io/badge/JavaScript-Languages-informational?style=for-the-badge&logo=javascript&logoColor=393939&labelColor=f7df1e&color=6f6f6f)](https://262.ecma-international.org/11.0/)
 [![](https://img.shields.io/badge/Python-Languages-informational?style=for-the-badge&logo=python&logoColor=f4f4f4&labelColor=3776ab&color=6f6f6f)](https://www.python.org)
